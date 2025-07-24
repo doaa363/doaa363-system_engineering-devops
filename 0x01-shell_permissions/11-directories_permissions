@@ -1,2 +1,2 @@
 #!/bin/bash
-for d in */ do[ -d "$d" ] chomd a+x "$d"done
+for d in */ do[ -d "$d" ] chomd a+x "$d" done
